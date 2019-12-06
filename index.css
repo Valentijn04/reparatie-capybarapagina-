@@ -53,6 +53,7 @@ html, body {
   .page-content a {
   color: #6f717d;  
   font-weight: bold;
+  text-decoration: none:
 }
 
 h1 {
@@ -81,13 +82,13 @@ h2 {
 
     .page-nav ul li {
       transition: all 300ms ease;
-      left: 0px;
-      position: relative;
+      left: 30px;
+      position: absolute;
       line-height: 200%;
     }
 
       .page-nav ul li:hover {
-        left: 4px;
+        left: 3px;
       }
 
       .page-nav ul li a:visited {
