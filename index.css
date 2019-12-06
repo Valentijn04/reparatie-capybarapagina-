@@ -2,7 +2,8 @@ html, body {
   background-color: #f3f3f3;
   padding: 0;
   margin: 0;
- }
+  link-color: #6f717d;
+}
 
 .page {
   background-color: white;
@@ -49,14 +50,14 @@ html, body {
 
 
   .page-content a {
-   
+  color: #6f717d;  
   }
 
 h1 {
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
-  border-bottom: 2px solid;
+  border-bottom: 2px solid
 }
 
 h2 {
@@ -89,4 +90,4 @@ h2 {
 
       .page-nav ul li a:visited {
         color: #6f717d;
-      }
+        }
